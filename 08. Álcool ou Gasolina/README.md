@@ -1,4 +1,5 @@
 # Desenvolvimento Android #08
 
-[Alcool_ou_Gasolina.gif](https://i.imgur.com/bjSq8pB.gif)
-<a src="https://i.imgur.com/msZ7DwV.gif" alt="Alcool_ou_Gasolina.gif">
+<img src="https://i.imgur.com/QCYTUMI.jpg" alt="Imagem do meu Projeto Alcool ou Gasolina">
+<br>
+<a href="https://i.imgur.com/bjSq8pB.gif" target="_blank">Alcool_ou_Gasolina.gif</a>
