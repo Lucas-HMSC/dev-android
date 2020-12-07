@@ -1,2 +1,2 @@
 # Desenvolvimento Android #06
-<img src="https://i.imgur.com/XjyzADg.gif" alt="GIF do Meu Projeto JoKenPo">
+<img src="Instalador/Jo Ken Po.gif" alt="GIF do Meu Projeto JoKenPo">

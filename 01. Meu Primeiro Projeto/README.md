@@ -1,3 +1,2 @@
 # Desenvolvimento Android #01
-
-![GIF do Meu Primeiro Projeto](https://i.imgur.com/gnLMBDi.gif)
+<img src="Instalador/MeuPrimeiroProjeto.gif" alt="GIF do Meu Primeiro Projeto">
