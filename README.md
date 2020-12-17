@@ -10,7 +10,7 @@
 4) Constraint Layout
    * ***Objetivo:*** avançar conhecimentos sobre constraints, utilizando um layout específico para o uso das mesmas.
 5) Netflix (Interface)
-   * ***Objetivo:*** avançar conhecimentos sobre desenvolvimento de interfaces, utilizando componentes visuais como: ImageView, Icons, ProgressBar, assim como edição dos arquivos XML para personalização das cores do aplicativo.
+   * ***Objetivo:*** avançar conhecimentos sobre desenvolvimento de interfaces, utilizando componentes visuais como: ImageView, Icons, SeekBar, assim como edição dos arquivos XML para personalização das cores do aplicativo.
 6) Jo Ken Po
 7) Componentes Básicos
 8) Álcool ou Gasolina
