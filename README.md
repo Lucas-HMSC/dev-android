@@ -12,8 +12,11 @@
 5) [Netflix (Interface)](/05.%20Netflix%20(Interface))
    * ***Objetivo:*** avançar conhecimentos sobre desenvolvimento de interfaces, utilizando componentes visuais como: ImageView, Icons, SeekBar, assim como edição dos arquivos XML para personalização das cores do aplicativo.
 6) [Jo Ken Po](/06.%20Jo%20Ken%20Po)
+   * ***Objetivo:*** utilizar componentes visuais com métodos que geram números aleatórios, simulando o famoso jogo "Jo Ken Po" (Pedra, Papel, Tesoura) e assim gerando interatividade com o usuário.
 7) [Componentes Básicos](/07.%20Componentes%20Basicos)
+   * ***Objetivo:*** utilizar os seguintes componentes básicos: TextInputEditText, CheckBox, RadioBox, assim como métodos para recuperar as opções selecionadas, valores inseridos e modificação dos mesmos.
 8) [Álcool ou Gasolina](/08.%20Álcool%20ou%20Gasolina)
+   * ***Objetivo:*** utilizar agrupamento de componentes visuais como imagens junto com caixas de texto editáveis pelo usuário para gerar interatividade, e utilizar funções que recuperar esses dados digitados para retornar uma dentre duas opções de acordo com uma função.
 9) [Toggle & Switch](/09.%20Toggle%20%26%20Switch)
 10) [Frases do Dia](/10.%20Frases%20do%20Dia)
 11) [AlertDialog](/11.%20AlertDialog)
