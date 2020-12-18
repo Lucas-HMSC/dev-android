@@ -57,3 +57,4 @@
     * ***Objetivo:*** projeto final, reunindo os conhecimentos adquiridos sobre reprodução de mídias e métodos de clique, utilizando ImageButtons atrelados a áudios, separadas em Abas com temas diferentes.
 28) [Shared Preferences](/28.%20Shared%20Preferences)
     * ***Objetivo:*** introdução ao uso de preferências compartilhadas, que retornam o valor digitado no TextView e mantêm na memória enquanto o aplicativo estiver sendo executado.
+29) [Minhas Anotações](/29.%20Minhas%20Anotações)
