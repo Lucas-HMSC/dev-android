@@ -59,3 +59,5 @@
     * ***Objetivo:*** introdução ao uso de preferências compartilhadas, que retornam o valor digitado no TextView e mantêm na memória enquanto o aplicativo estiver sendo executado.
 29) [Minhas Anotações](/29.%20Minhas%20Anotações)
     * ***Objetivo:*** introdução ao uso do banco de dados padrão dos sistemas Androids, o SQLite, implementando uma interface visual que mantem as anotações nela escritas, mesmo que a aplicação seja encerrada pelo usuário (botão FAB para salvar).
+30) [Banco de Dados SQLite](/30.%20Banco%20de%20Dados%20SQLite)
+    * ***Objetivo:*** projeto focado na utilização do banco de dados em aplicações Android, como implementar, quais metodos utilizar, como inserir dados, atualizar, deletar, pesquisar, etc.

@@ -1,3 +1,3 @@
 # Desenvolvimento Android #30
-- Projeto desenvolvido com foco na criação de uma tabela no Banco de Dados SQLite e na manipulação desses Dados.
-- Nenhum aplicativo foi gerado.
+   * ***Objetivo:*** projeto focado na utilização do banco de dados em aplicações Android, como implementar, quais metodos utilizar, como inserir dados, atualizar, deletar, pesquisar, etc.
+   * Nenhum aplicativo foi gerado.
