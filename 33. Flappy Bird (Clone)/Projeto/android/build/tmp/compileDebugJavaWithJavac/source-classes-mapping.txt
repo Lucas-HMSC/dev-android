@@ -1,0 +1,10 @@
+com/cursoandroid/flappybird/R.java
+ com.cursoandroid.flappybird.R
+ com.cursoandroid.flappybird.R$color
+ com.cursoandroid.flappybird.R$drawable
+ com.cursoandroid.flappybird.R$string
+ com.cursoandroid.flappybird.R$style
+com/cursoandroid/flappybird/BuildConfig.java
+ com.cursoandroid.flappybird.BuildConfig
+com/cursoandroid/flappybird/AndroidLauncher.java
+ com.cursoandroid.flappybird.AndroidLauncher

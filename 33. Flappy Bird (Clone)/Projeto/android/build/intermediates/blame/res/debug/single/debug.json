@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_flappybird.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-xxxhdpi/ic_flappybird.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_flappybird.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-xxhdpi/ic_flappybird.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_flappybird.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-mdpi/ic_flappybird.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_flappybird.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-xhdpi/ic_flappybird.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_flappybird.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-hdpi/ic_flappybird.png"
+    },
+    {
+        "merged": "/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/lucas/AndroidStudioProjects/FlappyBird/android/res/drawable-mdpi/ic_launcher.png"
+    }
+]

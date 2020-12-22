@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cursoandroid.flappybird"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml
+10
+11    <application
+11-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:5:5-22:19
+12        android:allowBackup="true"
+12-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:6:9-35
+13        android:appCategory="game"
+13-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:9:9-35
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_flappybird"
+15-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:7:9-47
+16        android:isGame="true"
+16-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:8:9-30
+17        android:label="@string/app_name"
+17-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:10:9-41
+18        android:testOnly="true"
+19        android:theme="@style/GdxTheme" >
+19-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:11:9-40
+20        <activity
+20-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:12:9-21:20
+21            android:name="com.cursoandroid.flappybird.AndroidLauncher"
+21-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:13:13-71
+22            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout"
+22-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:16:13-107
+23            android:label="@string/app_name"
+23-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:14:13-45
+24            android:screenOrientation="portrait" >
+24-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:15:13-49
+25            <intent-filter>
+25-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:17:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:18:17-69
+26-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:19:17-77
+28-->/home/lucas/AndroidStudioProjects/FlappyBird/android/AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

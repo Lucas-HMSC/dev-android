@@ -1,0 +1,4 @@
+#Sat Dec 19 13:06:51 BRT 2020
+base.0=/home/lucas/AndroidStudioProjects/FlappyBird/android/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
