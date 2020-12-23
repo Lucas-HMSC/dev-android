@@ -61,3 +61,13 @@
     * ***Objetivo:*** introdução ao uso do banco de dados padrão dos sistemas Androids, o SQLite, implementando uma interface visual que mantem as anotações nela escritas, mesmo que a aplicação seja encerrada pelo usuário (botão FAB para salvar).
 30) [Banco de Dados SQLite](/30.%20Banco%20de%20Dados%20SQLite)
     * ***Objetivo:*** projeto focado na utilização do banco de dados em aplicações Android, como implementar, quais metodos utilizar, como inserir dados, atualizar, deletar, pesquisar, etc.
+31) [Menus](/31.%20Menus)
+    * ***Objetivo:*** introdução aos métodos de criação e personalização de menus, atribuindo layouts personalizados (arquivos XML criados do zero), eventos de clique a cada componente do menu e inserção de ícones no lugar de texto.
+32) [Lista de Tarefas](/32.%20Lista%20de%20Tarefas)
+    * ***Objetivo:*** projeto prático utilizando persistência de dados no SQLite, aliado com uma interface gráfica que simula um bloco de anotações e uma Toolbar com um botão programado para salvar os dados inseridos na caixa de texto no banco de dados. Além disso, cada opção da lista (depois de salva) há um Listener de clique, para que tenha a opção de editar o texto, ou em caso de clique longo, opção para excluir a mesma.
+33) [Flappy Bird (Clone)](/33.%20Flappy%20Bird%20(Clone))
+    * ***Objetivo:*** introdução a biblioteca GDX para produção de games, foi construído desde o layout até os eventos de colisão, tela Game Over, pontuação, rolagem da tela, etc. Foi realizado também, configuração de câmera e viewport para que reosluções diferentes de smartphones continuem reproduzindo o game da mesma forma.
+34) [Firebase App](/34.%20Firebase%20App)
+    * ***Objetivo:*** projeto focado na configuração do Firebase, desde a criação da conta até a implementação do Realtime Database e Authenticator. Nenhum aplicativo foi gerado, porém foi realizado persistêcia de dados e criação de metodologias de autenticação e tratamento de exceções.
+35) [WhatsApp (Clone)](/35.%20WhatsApp%20(Clone))
+    * ***Objetivo:*** projeto completo envolvendo interfaces visuais e integração ao Firebase, desde a tela de login até a troca de mensagens, adicionar contatos, criar contas. Todas as classes criadas do zero, sem implementação de bibliotecas externas (com exceção dos códigos de implementação do Realtime Database e Authenticator do Firebase). Durante o desenvolvimento, foi criado métodos de autenticação por SMS, porém para prosseguimento do aplicativo utilizando Firebase, foi adotado o método de Email/Senha.
