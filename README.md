@@ -64,7 +64,7 @@
 31) [Menus](/31.%20Menus)
     * ***Objetivo:*** introdução aos métodos de criação e personalização de menus, atribuindo layouts personalizados (arquivos XML criados do zero), eventos de clique a cada componente do menu e inserção de ícones no lugar de texto.
 32) [Lista de Tarefas](/32.%20Lista%20de%20Tarefas)
-    * ***Objetivo:*** projeto prático utilizando persistência de dados no SQLite, aliado com uma interface gráfica que simula um bloco de anotações e uma Toolbar com um botão programado para salvar os dados inseridos na caixa de texto no banco de dados. Além disso, cada opção da lista (depois de salva) há um Listener de clique, para que tenha a opção de editar o texto, ou em caso de clique longo, opção para excluir a mesma.
+    * ***Objetivo:*** projeto prático utilizando persistência de dados no SQLite, aliado com uma interface gráfica que simula uma lista de tarefas e uma Toolbar com um botão programado para salvar os dados inseridos na caixa de texto no banco de dados. Além disso, cada opção da lista (depois de salva) há um Listener de clique, para que tenha a opção de editar o texto, ou em caso de clique longo, opção para excluir a mesma.
 33) [Flappy Bird (Clone)](/33.%20Flappy%20Bird%20(Clone))
     * ***Objetivo:*** introdução a biblioteca GDX para produção de games, foi construído desde o layout até os eventos de colisão, tela Game Over, pontuação, rolagem da tela, etc. Foi realizado também, configuração de câmera e viewport para que reosluções diferentes de smartphones continuem reproduzindo o game da mesma forma.
 34) [Firebase App](/34.%20Firebase%20App)
